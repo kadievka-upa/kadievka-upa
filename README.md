@@ -6,22 +6,13 @@
 
 ## What this GitHub profile is for ?
 
-- This is where I store practice projects  💾
-- Maybe you could find courses I made repositories  💼
-- For example when I was learning Javascript, or when I was learning Laravel 👓
-- 🍎 You could find my landing page in github pages: https://kadievka.github.io/apple-home-react/
+- This is where I store projects for upasoft 💼
 
 ## Most recent topics:
 
-- Git and GitHub
-- Markdown
-- Nestjs
-- Angular
+- Sass
 - NodeJs
-- React
 
 ## Now I am learning...
 
-- Docker 🐳
 - Sass ✨
-- Angular 🛡️
